@@ -3,13 +3,14 @@
 This project aims to use various Python-based machine learning and data science libraries to build a model capable of predicting whether or not a patient has heart disease based on their medical attributes.
 
 ## Table of Contents
-1. [Problem Definition](#problem-definition)
-2. [Data](#data)
-3. [Evaluation](#evaluation)
-4. [Features](#features)
-5. [Modelling](#modelling)
-6. [Experimentation](#experimentation)
-7. [Feature Importance](#feature-importance)
+1. Problem Definition
+2. Data
+3. Evaluation
+4. Features
+5. Modelling
+6. Experimentation
+7. Feature Importance
+
 
 ## 1. Problem Definition
 
