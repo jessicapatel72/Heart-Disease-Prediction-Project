@@ -21,7 +21,6 @@ Given clinical parameters about a patient, can we predict whether or not they ha
 The dataset used for this project is the Cleavland dataset from the UCI Machine Learning Repository. It contains clinical attributes related to heart disease diagnosis.
 
 - [UCI Machine Learning Repository - Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
-- [Kaggle Version of the Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 ## 3. Evaluation
 
